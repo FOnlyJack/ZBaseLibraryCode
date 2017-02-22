@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZFramwork</string>
+    <string name="tag_fragment_tab_click_only">TAG_FRAGMENT_TAB_CLICK_ONLY</string>
+</resources>
